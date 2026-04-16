@@ -13,10 +13,10 @@ Currently learning JavaScript and working on real-world projects.
 
  🚀 Projects:
 
-🔹 Portfolio Website  
+🔹 School project 
 - Clean personal website  
 - Built with HTML & CSS  
-- [Live Demo]() 
+- [Live Demo](https://rezhwam.github.io/Chon-/https://rezhwam.github.io/Chon-/) 
 
 
 
