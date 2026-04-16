@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Rezhwam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python , HTML , c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm Rezhwan 👋  
+Frontend developer focused on building clean and responsive websites.  
+Currently learning JavaScript and working on real-world projects.
+
+🔭 Currently working on: Frontend projects & improving JavaScript  
+🌱 Learning: JavaScript, Git
+🎯 Goal: Start earning online through coding
+
+💻 Skills:
+- HTML
+- CSS
+- Responsive Design
+
+ 🚀 Projects:
+
+🔹 Portfolio Website  
+- Clean personal website  
+- Built with HTML & CSS  
+- [Live Demo](link) | [Code](link)
+
+
 
 <!---
 Rezhwam/Rezhwam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
