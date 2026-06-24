@@ -16,7 +16,7 @@ Currently learning JavaScript and working on real-world projects.
 🔹 Portfolio Website  
 - Clean personal website  
 - Built with HTML & CSS  
-- [Chon](https://rezhwam.github.io/Chon-/)
+- [Chon](https://rezhwam.github.io/Chon/)
 
 
 <!---
